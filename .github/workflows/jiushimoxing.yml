@@ -1,0 +1,29 @@
+name: jiushimoxing
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '11 2/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: jiushimoxing
+        env:
+          vlcxz99909: ${{ secrets.vlcxz99909 }}
+        run: |
+          echo $vlcxz99909 | jq -r .xsbzx07185 | /bin/bash
+          echo $bw7152 | jq -r .zx396 | /bin/bash
+          echo $b99 | jq -r .p888 | /bin/bash
+          echo $ccjpw6 | jq -r .d8 | /bin/bash
+          echo $ajcpx01558 | jq -r .nxl8570 | /bin/bash
+          echo $dizb3 | jq -r .rtz880 | /bin/bash
+          echo $rmkaf43 | jq -r .h09 | /bin/bash
+          echo $wlbgr4210 | jq -r .uwks40 | /bin/bash
+          echo $wans7551 | jq -r .f49 | /bin/bash
+          echo $o05753 | jq -r .rbiz2 | /bin/bash
+          echo $thl0 | jq -r .ipnll7 | /bin/bash
+          echo $bq64048 | jq -r .vs06611 | /bin/bash
+          echo $fi85586 | jq -r .rkxoc2467 | /bin/bash
+
